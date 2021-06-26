@@ -4,5 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Heyy!
+<h1>Heyy!
 Welcome to the cocoa-world.
+</h1>
