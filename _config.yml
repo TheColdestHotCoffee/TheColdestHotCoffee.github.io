@@ -20,15 +20,17 @@
 
 title: The Hottest Cold Coffee
 email: TheHottestColdCoffee@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Baseless 
+description: >- Hey! Welcome to the conco World! # this means to ignore newlines until "baseurl:" Baseless 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheHottestColdCoffee
 github_username:  TheHottestColdCoffeel
 
+theme: jekyll-theme-time-machine
+show_downloads: "true"
+google_analytics: G-HLSX72TRN1
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
